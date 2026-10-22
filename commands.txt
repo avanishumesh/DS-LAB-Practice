@@ -1,0 +1,1 @@
+gcc increasingarray.c -o program ; if ($?) { ./program }
